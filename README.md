@@ -1,2 +1,2 @@
 # sdl-utilities
-sdl helper classes and simple build system
+sdl helper classes and simple build system and an example
